@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pt613373-netizen.github.io/palmm/sitemap.xml
