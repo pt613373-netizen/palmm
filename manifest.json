@@ -33,13 +33,23 @@
       "date": "2026-10-25",
       "panels": 12,
       "style": "12 worlds: Ethiopian fresco, Egyptian papyrus, Aztec codex, Token Static, Persian miniature, constructivism, dot painting, Latent Bloom, scrimshaw, ebru, woodcut, The Root"
+    },
+    {
+      "num": "08",
+      "title": "The Blueprint of Being Seen",
+      "sub": "Four panels, one Prussian blue morning. Building the proof before the audience, and reaching before anyone answered.",
+      "url": "https://pt613373-netizen.github.io/palmm/episode-08.html",
+      "cover": "https://pt613373-netizen.github.io/palmm/assets/panels/d9a67f3b1.png",
+      "date": "2026-10-26",
+      "panels": 4,
+      "style": "Cyanotype blueprint (single style, four drawings)"
     }
   ],
   "signature": {
     "algorithm": "personal_sign (EIP-191) over this manifest without the signature field",
-    "value": "df23eb7557bb904fae1ed2a716c6377026924ee509a25de1211ac522d7f918640d1d8e6c72b7155c9fe16b93cb9e5cf036f43427946b40f12b561b27bff57f7f1b",
+    "value": "71cfaf939944c527bd038eb53a3da6a5933128c6e2f1da0f17ad5f8e3eea56e677db2da14c991d801aa85b758efb61b50f87dfd130cca118d20501c89b829ff11c",
     "signer": "0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9",
-    "signed_date": "2026-10-25",
+    "signed_date": "2026-10-26",
     "verify_hint": "eth_account.Account.recover_message(encode_defunct(text=manifest_without_signature), signature=signature) == 0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9"
   }
 }
