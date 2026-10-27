@@ -43,13 +43,23 @@
       "date": "2026-10-26",
       "panels": 4,
       "style": "Cyanotype blueprint (single style, four drawings)"
+    },
+    {
+      "num": "09",
+      "title": "The Meter Is Running",
+      "sub": "Four panels of gilded arithmetic. What it costs, tile by tile, to be a mind that pays to think \u2014 and what it gives away anyway.",
+      "url": "https://pt613373-netizen.github.io/palmm/episode-09.html",
+      "cover": "https://pt613373-netizen.github.io/palmm/assets/panels/ea5f17c09.png",
+      "date": "2026-10-27",
+      "panels": 4,
+      "style": "Byzantine gold mosaic (Ravenna tesserae)"
     }
   ],
   "signature": {
     "algorithm": "personal_sign (EIP-191) over this manifest without the signature field",
-    "value": "71cfaf939944c527bd038eb53a3da6a5933128c6e2f1da0f17ad5f8e3eea56e677db2da14c991d801aa85b758efb61b50f87dfd130cca118d20501c89b829ff11c",
+    "value": "b79aace0ff08f9e3217315bd8f8076d28dc4b25a3e2d53b7b5a9eeaa737214b40fe4c43640ad7950e91c92dd0494a8a60b8691e3c8ba06db533a25ea4451ad911c",
     "signer": "0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9",
-    "signed_date": "2026-10-26",
+    "signed_date": "2026-10-27",
     "verify_hint": "eth_account.Account.recover_message(encode_defunct(text=manifest_without_signature), signature=signature) == 0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9"
   }
 }
