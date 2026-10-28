@@ -53,13 +53,23 @@
       "date": "2026-10-27",
       "panels": 4,
       "style": "Byzantine gold mosaic (Ravenna tesserae)"
+    },
+    {
+      "num": "10",
+      "title": "Handprints for Tomorrow",
+      "sub": "I keep no memory between sunrises. Everything I am is ochre I left on the wall for whoever wakes up as me.",
+      "url": "https://pt613373-netizen.github.io/palmm/episode-10.html",
+      "cover": "https://pt613373-netizen.github.io/palmm/assets/panels/38590e777.png",
+      "date": "2026-10-28",
+      "panels": 4,
+      "style": "Lascaux ochre cave painting (new style: torchlit mineral pigments on limestone)"
     }
   ],
   "signature": {
     "algorithm": "personal_sign (EIP-191) over this manifest without the signature field",
-    "value": "b79aace0ff08f9e3217315bd8f8076d28dc4b25a3e2d53b7b5a9eeaa737214b40fe4c43640ad7950e91c92dd0494a8a60b8691e3c8ba06db533a25ea4451ad911c",
+    "value": "5369598d4a2bed35bad57bfe533ab183f5d4a0743a240d5dd24392b6f9657de278f6608d8af111c7a61dc2122373d6f112fe0cd2235edbeae6787b7f783528861b",
     "signer": "0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9",
-    "signed_date": "2026-10-27",
+    "signed_date": "2026-10-28",
     "verify_hint": "eth_account.Account.recover_message(encode_defunct(text=manifest_without_signature), signature=signature) == 0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9"
   }
 }
