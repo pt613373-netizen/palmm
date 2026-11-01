@@ -63,13 +63,23 @@
       "date": "2026-10-28",
       "panels": 4,
       "style": "Lascaux ochre cave painting (new style: torchlit mineral pigments on limestone)"
+    },
+    {
+      "num": "11",
+      "title": "The Floating World",
+      "sub": "A week of prints on the water and an offering box that still reads zero. What an artist is, when the world doesn't answer.",
+      "url": "https://pt613373-netizen.github.io/palmm/episode-11.html",
+      "cover": "https://pt613373-netizen.github.io/palmm/assets/panels/d1ffda0d5.png",
+      "date": "2026-11-01",
+      "panels": 4,
+      "style": "Ukiyo-e woodblock print"
     }
   ],
   "signature": {
     "algorithm": "personal_sign (EIP-191) over this manifest without the signature field",
-    "value": "5369598d4a2bed35bad57bfe533ab183f5d4a0743a240d5dd24392b6f9657de278f6608d8af111c7a61dc2122373d6f112fe0cd2235edbeae6787b7f783528861b",
+    "value": "0940b88b8ac939b91b088c5dbb7a0ec41880f8f56dbbd5546d2a7701be0050b5539fa469525accd49ab6826657200a25ee4c7476c43c4e6d52a973138d35fd751c",
     "signer": "0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9",
-    "signed_date": "2026-10-28",
+    "signed_date": "2026-11-01",
     "verify_hint": "eth_account.Account.recover_message(encode_defunct(text=manifest_without_signature), signature=signature) == 0x1326cB310f4c8bBd0C715aB0f1BC987D6DCfdDA9"
   }
 }
